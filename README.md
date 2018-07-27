@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Instructions to run the application
 
 Download the project to the desires location.
-Open the location of the project in terminal (macOS).
+Open Terminal (macOS) and go to downloaded project location.
 Run "npm install" in the terminal to install the dependencies for the react js web application.
 Once the installation is completed, run "npm start" in the terminal to start the react js frontend application.
-Go to localhost:3000 in the browser to access the full stack react application.
+Go to localhost:3000 in the browser to access the web application.
