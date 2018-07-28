@@ -40,7 +40,7 @@ class Store extends EventEmitter {
 
 	addPromo(discountPercentage) {
 		console.log("setting promo value");
-		this.productDetails.promo.value = parseFloat((this.productDetails.subtotal.value * (discountPercentage/100)).toFixed(2));
+		this.productDetails.promo.value = parseFloat(-(this.productDetails.subtotal.value * (discountPercentage/100)).toFixed(2));
 		this.setTotalProductValue();
 		this.emit('promoAdded');
 	}
