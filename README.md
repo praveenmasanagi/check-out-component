@@ -12,9 +12,14 @@ Instructions to run the application
 4. Once the installation is completed, run "npm start" in the terminal to start the react js frontend application.
 5. Go to localhost:3000 in the browser to access the web application.
 
+Testing :
+
+1. Once the application is running add "DISCOUNT" promo code to update the Est. total
+
 
 Desktop UI:
 ![image](https://user-images.githubusercontent.com/18449222/43350614-c66c6cae-91bd-11e8-85e2-b331ab978225.png)
 
 Mobile UI:
+
 ![image](https://user-images.githubusercontent.com/18449222/43350632-ecb4fd4a-91bd-11e8-89c2-868f9f3c8f5d.png)
